@@ -15,7 +15,7 @@ pip install git+https://github.com/chemosim-lab/ProLIF.git
 jupyter notebook Molecular Docking_Panda 
 
 
-Before intitialising please install ADFR_Suite and add it to your bashrc. file so that you can access prepare_receptor and prepare_ligand command. 
+Before intitialising please install ADFR_Suite and add it to your bashrc. file so that you can access prepare_receptor and prepare_ligand command.  https://ccsb.scripps.edu/adfr/downloads/ 
 
 Happy Docking!
 
