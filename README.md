@@ -13,7 +13,7 @@ pip install meeko
 conda install -c conda-forge pdbfixer
 conda install rdkit cython   
 pip install git+https://github.com/chemosim-lab/ProLIF.git
-jupyter notebook molecular_docking_Panda 
+jupyter notebook molecular_docking_panda 
 ```
 
 Before intitialising please install ADFR_Suite and add it to your bashrc. file so that you can access prepare_receptor and prepare_ligand command.  https://ccsb.scripps.edu/adfr/downloads/ 
