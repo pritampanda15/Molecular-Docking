@@ -9,7 +9,8 @@ conda install -c schrodinger pymol
 conda install -c conda-forge py3dmol 
 pip install vina    
 conda install -c conda-forge openbabel
-pip install meeko  
+pip install meeko
+pip install rdkit
 conda install -c conda-forge pdbfixer
 conda install rdkit cython   
 pip install git+https://github.com/chemosim-lab/ProLIF.git
